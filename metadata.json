@@ -1,0 +1,6 @@
+{
+  "name": "ARTU MBËNN MI",
+  "description": "Plateforme d'aide à la décision et d'alerte précoce aux inondations à 48h au Sénégal avec diffusion WhatsApp vocale en wolof.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
